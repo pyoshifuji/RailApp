@@ -1,4 +1,10 @@
 class StaticPagesController < ApplicationController
-  def new
+  def index
   end
+
+  def help
+  end
+
+	def login
+	end
 end
